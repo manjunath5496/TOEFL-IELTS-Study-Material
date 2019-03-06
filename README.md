@@ -1,90 +1,50 @@
 
-1. The Quest for Artificial Intelligence: A History of Ideas and Achievements</br>
-                Nils J. Nilsson</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/pdf1079.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+1. Answers to All TOEFL Essay Questions</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-2. Artificial Intelligence: A Modern Approach</br>
-                Peter Norvig</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/pdf1293.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+2. How to Prepare For the TOEFL Essay</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-3. Practical Artificial Intelligence For Dummies</br>
-                Kristian Hammond</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/pdf1300.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+3. Speaking and Writing Strategies For the TOEFL iBT</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-4.  AI: A Guide to Intelligent Systems</br>
-                Michael Negnevitsky</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/pdf2442.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+4. Check Your English Vocabulary for TOEFL</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-5.  Artificial Intelligence For Games</br>
-                Ian Millington</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/pdf2444.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+5. Longman Complete Course for the TOEFL Test</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-6.  Computing Machinery and Intelligence</br>
-               A.M.Turing</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/pdf2787.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-7. Mind, Computing Machinery and Intelligence</br>
-               A.M.Turing</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/pdf2789.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-8.  Life 3.0: Being Human in the Age of Artificial Intelligence</br>
-                Max Tegmark</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh32.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-9. Our Final Invention: Artificial Intelligence and the End of the Human Era  </br>
-                James Barrat</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh43.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-10. Deep Learning with R  </br>
-               Mr. Joseph J Allaire</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh44.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-11. Superintelligence: Paths, Dangers, Strategies  </br>
-               Nick Bostrom</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh45.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-12.  Virtual Reality: Human Computer Interaction  </br>
-               Xin-Xing Tang</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh46.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-13. Clever Algorithms: Nature-Inspired Programming Recipes  </br>
-               Jason Brownlee</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh47.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-14.  A Course in Machine Learning  </br>
-               Hal Daum&#233; III</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh48.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-15.  Python Machine Learning  </br>
-               Sebastian Raschka</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh49.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-16.  Essentials of Metaheuristics  </br>
-               Sean Luke</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh50.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-17. Common LISP: A Gentle Introduction to Symbolic Computation  </br>
-               David S. Touretzky</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh51.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-18.  Planning Algorithms  </br>
-               Steven M. LaValle</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh52.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-19.  Simply Logical Intelligent Reasoning by Example  </br>
-               Peter Flach</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh53.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-20. Logic For Computer Science: Foundations of Automatic Theorem Proving  </br>
-               Jean H. Gallier</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-21.  From Bricks to Brains: The Embodied Cognitive Science of LEGO Robots   </br>
-               Michael R.W. Dawson</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh55.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
-22. Artificial Intelligence: Foundations of Computational Agents  </br>
-              David L. Poole</br>
-                <a href="https://github.com/manjunath5496/AI-Books/blob/master/sh56.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
+6. 400 Must-Have Words for the TOEFL</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 		   
-		   
-		   
+7. Ace the TOEFL Essay (TWE): Everything You Need for the Test of Written English</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+8. Barron's TOEFL iBT (14th Ed)</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+9. Barron's How to Prepare for TOEFL Essay</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+10. CliffsTestPrep TOEFL CBT</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+11. 1800 TOEFL Essential Vocabulary</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+12. Essential words for the TOEFL</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+13. An Essay Collection For TOEFL</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
+14. The Complete Guide to the TOEFL Test</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
+15. Building Grammar Skills for TOEFL iBT</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+16. Vocabulary For PreTOEFL Students</br>
+                <a href="https://github.com/manjunath5496/AI-Books/blob/master/TOEFL16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+				
+		
