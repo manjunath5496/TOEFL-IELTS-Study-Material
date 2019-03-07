@@ -89,6 +89,27 @@
 29. Improve your Skills Listening & Speaking for IELTS with Answer Key </br>
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
+30. Vocabulary for IELTS </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+31. Master your IELTS Skills &minus; Speaking Answers </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+			
+32. Master IELTS Essays </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+33. 6 IELTS Practice Tests </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+			
+34. 31 High-scoring Formulas to Answer The IELTS Speaking Questions </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+35. The Bible Of IELTS Reading Book </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+				
+		
+		
+		
 		
 		
 		
