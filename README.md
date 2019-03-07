@@ -108,10 +108,19 @@
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 				
 		
+36. 202 Useful Exercises for IELTS </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS20.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+37. IELTS Speaking Actual Tests and Suggested Answers </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+38. Cambridge English IELTS 10 With Answers </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+39. Cambridge Grammar for IELTS with Answers </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
-		
+40. IELTS Band 9 Vocab Secrets  </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 		
