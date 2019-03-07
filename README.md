@@ -47,4 +47,44 @@
 16. Vocabulary For PreTOEFL Students</br>
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/TOEFL16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 				
+17. 101 Helpful Hints For IELTS</br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+18. Achieve IELTS Academic Writing Success</br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+19. Barron's IELTS Practice Exams: International English Language Testing System</br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+20. Best Practice Book For IELTS Writing</br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+21. Get Ready for IELTS: Listening</br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+22. IELTS Preparation Material 2016</br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+23. Target Band 7: IELTS Academic Module - How to Maximize Your Score</br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
