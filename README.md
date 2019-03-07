@@ -68,20 +68,26 @@
 23. Target Band 7: IELTS Academic Module - How to Maximize Your Score</br>
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 		
+24. IELTS TECH-Writing Essentials</br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+25. IELTS Sure Success 7+ Band </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+26. IELTS Writing Band 9 Essays </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 		
+27. Insight into IELTS </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 		
+28. Key Words for IELTS  </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
+29. Improve your Skills Listening & Speaking for IELTS with Answer Key </br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 		
 		
