@@ -21,7 +21,7 @@
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/TOEFL7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 8. Barron's TOEFL iBT (14th Ed)</br>
-                <a href="https://drive.google.com/file/d/1yfrUxE27VZBgmsc62wahZF-jsx2t8Eww/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/TOEFL8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 9. Barron's How to Prepare for TOEFL Essay</br>
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/TOEFL9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
@@ -87,10 +87,10 @@
 		
 	
 29. Improve your Skills Listening & Speaking for IELTS with Answer Key </br>
-                <a href="https://drive.google.com/file/d/1urs1zmA8wLOiZdDv5WceTbte3WnOKknI/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+                  <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 30. Vocabulary for IELTS </br>
-                <a href="https://drive.google.com/file/d/1i_11UTlcNqSoW2sIAAHGYjv44Sqp6VcA/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+          <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 31. Master your IELTS Skills &minus; Speaking Answers </br>
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
@@ -99,7 +99,7 @@
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 		
 33. 6 IELTS Practice Tests </br>
-                <a href="https://drive.google.com/file/d/1y5tX_-lO6h3qkEi0CpQ_z4MPsn2vBsqY/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                     <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 			
 34. 31 High-scoring Formulas to Answer The IELTS Speaking Questions </br>
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
@@ -115,10 +115,10 @@
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 38. Cambridge English IELTS 10 With Answers </br>
-                <a href="https://drive.google.com/file/d/1nI4MBhXW9DCW-5NsFRoy96oU1Tt4UuC3/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+       <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
-39. Cambridge Grammar for IELTS with Answers </br>
-                <a href="https://drive.google.com/file/d/1ExHyJcXNwt7o5vWj0DiGg8TusvoChRvE/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+39. Cambridge IELTS 5 with Answers </br>
+               <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 40. IELTS Band 9 Vocab Secrets  </br>
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
@@ -133,7 +133,7 @@
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS27.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 44. IELTS General Reading Practice test     </br>
-                <a href="https://drive.google.com/file/d/1scZSokpeXyQMDrs_OybaZTpp8BH6SIp6/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+                  <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS28.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
 45. Cambridge IELTS with answers: Examination Papers from University of Cambridge ESOL Examinations     </br>
                 <a href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/IELTS29.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
